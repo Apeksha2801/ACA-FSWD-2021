@@ -1,17 +1,17 @@
-# CMD Commands
+# CMD Commands:
 
-* **CD**:To change the current directory.
-## 2.Drive's letter followed by ":":To access another drive.
-## 3.DIR:To view the contents of a folder. 
-## 4.MKDIR or MD:To make a new folder.
-## 5.REN:To rename files and folders.
-## 6.COPY:To copy files from one location to another.
-## 7.XCOPY:To copy a folder and its content from a location to another.
-## 8.DEL:To delete files from the folders created.
-## 9.RD:To delete folders.
-## 10.HELP:To access help in Command Prompt.
+* **CD:**To change the current directory.
+* **Drive's letter followed by ":":**To access another drive.
+* **DIR:**To view the contents of a folder. 
+* **MKDIR or MD:**To make a new folder.
+* **REN:**To rename files and folders.
+* **COPY:**To copy files from one location to another.
+* **XCOPY:**To copy a folder and its content from a location to another.
+* **DEL:**To delete files from the folders created.
+* **RD:**To delete folders.
+* **HELP:**To access help in Command Prompt.
 
-# SHORT DESCRIPTION
+# SHORT DESCRIPTION:
 
 ## 1.CLIENTSIDE:Client side refers to everything in a web application that is displayed or takes place on the client (end user device). This includes what the user sees, such as text, images, and the rest of the UI, along with any actions that an application performs within the user's browser.
 
