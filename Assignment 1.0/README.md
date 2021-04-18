@@ -1,15 +1,15 @@
 # CMD Commands:
 
 * **CD:** To change the current directory.
-* **Drive's letter followed by ":":**To access another drive.
-* **DIR:**To view the contents of a folder. 
-* **MKDIR or MD:**To make a new folder.
-* **REN:**To rename files and folders.
-* **COPY:**To copy files from one location to another.
-* **XCOPY:**To copy a folder and its content from a location to another.
-* **DEL:**To delete files from the folders created.
-* **RD:**To delete folders.
-* **HELP:**To access help in Command Prompt.
+* **Drive's letter followed by ":":** To access another drive.
+* **DIR:** To view the contents of a folder. 
+* **MKDIR or MD:** To make a new folder.
+* **REN:** To rename files and folders.
+* **COPY:** To copy files from one location to another.
+* **XCOPY:** To copy a folder and its content from a location to another.
+* **DEL:** To delete files from the folders created.
+* **RD:** To delete folders.
+* **HELP:** To access help in Command Prompt.
 
 # SHORT DESCRIPTION:
 
