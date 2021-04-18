@@ -1,6 +1,6 @@
 # CMD Commands:
 
-* **CD:**To change the current directory.
+* **CD:** To change the current directory.
 * **Drive's letter followed by ":":**To access another drive.
 * **DIR:**To view the contents of a folder. 
 * **MKDIR or MD:**To make a new folder.
