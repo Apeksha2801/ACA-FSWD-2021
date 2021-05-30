@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Store and display data</title>
+        <style>
+            body {
+                background-color: rgb(45, 48, 49);
+                color: rgba(250, 250, 250);
+                text-align: center;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">Interface to store and display user data<h1>   
+        <h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">NEW REGISTRATION:</h2>
+        <form>
+            <input type="text" id="Username" placeholder="Username" style="background-color: cornsilk;">
+            <input type="text" id="Data" placeholder="Data" style="background-color: cornsilk;">
+            <input type="text" id="Token" placeholder="Token" style="background-color: cornsilk;">
+            <input type="button" value="Submit" id="Register" style="background-color: rgb(100, 164, 237); margin-top: 10px;">
+        </form>
+        <div id="d1" style="margin: 20px;">
+            <button id="get_token" style="background-color: rgb(111, 193, 196); font-size: large; margin: 20px;"><b>CLICK HERE to generate token</b></button>
+        </div>
+        <h3>(Refresh to generate new token)</h3>
+        <h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">FOR EXISTING USER:</h2>
+        <form>
+            <input type="text" id="Token2" placeholder="Enter token to display data" style="background-color: cornsilk;">
+            <input type="button" value="Submit" id="DisplayData" style="background-color: rgb(100, 164, 237); margin-top: 10px;">
+        </form>
+        <div id="d2" style="margin: 20px;"></div>
+        <script src="script.js"></script>
+    </body>
+</html>
